@@ -158,9 +158,9 @@ function drawWaveform(soundFileData, trackNumber, trackOffset){
     
     stroke(thisColor);
 
-    for( var i=0; i < width; i++ ){
-        var min = 1.0;
-        var max = -1.0;
+    for( let i=0; i < width; i++ ){
+        let min = 1.0;
+        let max = -1.0;
      
         for( j=0; j < step; j++) {
             

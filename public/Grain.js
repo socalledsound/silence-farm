@@ -32,7 +32,7 @@ class Grain {
 
 
         //parameters
-        this.attack = attack * 0.4;
+        this.attack = attack * random(0.1, 3.4);
         this.release = release * random(1.5, 9.0);
 
         if(this.release < 0){
