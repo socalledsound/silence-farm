@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyB4EsewDo35Id3aBaOGANh_wJZ_s9J2thk",
-    authDomain: "silence-farm.firebaseapp.com",
-    databaseURL: "https://silence-farm.firebaseio.com",
-    projectId: "silence-farm",
-    storageBucket: "silence-farm.appspot.com",
-    messagingSenderId: "738373102064",
-    appId: "1:738373102064:web:46428009f7d90a7f971535",
-    measurementId: "G-ZLZW2R060L"
+  apiKey: "AIzaSyBQOAvLRmpUdb_wUZYwUMDyuztqApzAkuk",
+  authDomain: "silence-farm-ec118.firebaseapp.com",
+  databaseURL: "https://silence-farm-ec118.firebaseio.com",
+  projectId: "silence-farm-ec118",
+  storageBucket: "silence-farm-ec118.appspot.com",
+  messagingSenderId: "188595089044",
+  appId: "1:188595089044:web:8631633bde795835944e81",
+  measurementId: "G-WNXJM7QKB2"
   };
